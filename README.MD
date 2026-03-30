@@ -103,9 +103,8 @@ A ALU final é composta por Registrador AC, Registrador MQ, Blocos de operação
 
 ## 🎥 Entrega
 
-* ✔️ Implementação completa
 * ✔️ README explicativo
-* ⏳ Vídeo explicativo (a ser incluído)
+* ⏳ Vídeo explicativo: [LINK](https://docs.google.com/document/d/1VEWSaBhOKvqFFlK16f6JNKOvmstcJ4ioU4ucZt1Qi9U/edit?tab=t.0)
 
 ---
 
