@@ -78,7 +78,7 @@ Esta foi a parte mais complexa da arquitetura. O algoritmo clássico de multipli
 
 **❌ Divisão NÃO implementada**
 
-Apesar de prevista no enunciado (*"Divisão: AC / N → AC (resto) e MQ (quociente)"*), não foi possível implementar a divisão e integrá-la na ALU dentro do tempo disponível.
+Apesar de prevista no enunciado (*"Divisão: AC / N → AC (resto) e MQ (quociente)"*), não foi possível implementar a divisão e integrá-la na ALU.
 
 **Motivos:**
 * Alta complexidade do algoritmo sequencial de divisão.
