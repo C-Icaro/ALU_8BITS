@@ -58,10 +58,6 @@ Esta foi a parte mais complexa da arquitetura. O algoritmo clássico de multipli
 * Split (16 bits)
 * REG_AC_8 e REG_MQ_8
 
-**⚠️ Detalhe importante de arquitetura:** Durante a execução interna, a estrutura é tratada como `[ AC | MQ ]`. Porém, como o enunciado exige a saída com AC sendo os 8 LSB e MQ os 8 MSB, foi necessário inverter na saída:
-* `AC_OUT <- MQ interno`
-* `MQ_OUT <- AC interno`
-
 ---
 
 ## 🧪 Testes Realizados
